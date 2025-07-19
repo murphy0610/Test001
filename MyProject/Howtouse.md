@@ -7,3 +7,4 @@ git pull
 git clone LINK
 git branch //check which branch am I
 
+git push origin branch2
