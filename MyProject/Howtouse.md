@@ -7,3 +7,5 @@ git pull
 git clone LINK
 git branch //check which branch am I
 
+git checkout -b BRANCHNAME
+ 
